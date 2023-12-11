@@ -1,0 +1,11 @@
+D:\hey\C#\two\two\bin\Debug\two.exe.config
+D:\hey\C#\two\two\bin\Debug\two.exe
+D:\hey\C#\two\two\bin\Debug\two.pdb
+D:\hey\C#\two\two\obj\Debug\two.csproj.AssemblyReference.cache
+D:\hey\C#\two\two\obj\Debug\two.csproj.SuggestedBindingRedirects.cache
+D:\hey\C#\two\two\obj\Debug\two.Form1.resources
+D:\hey\C#\two\two\obj\Debug\two.Properties.Resources.resources
+D:\hey\C#\two\two\obj\Debug\two.csproj.GenerateResource.cache
+D:\hey\C#\two\two\obj\Debug\two.csproj.CoreCompileInputs.cache
+D:\hey\C#\two\two\obj\Debug\two.exe
+D:\hey\C#\two\two\obj\Debug\two.pdb

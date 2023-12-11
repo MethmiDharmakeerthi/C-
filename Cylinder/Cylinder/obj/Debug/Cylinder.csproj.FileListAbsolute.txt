@@ -1,0 +1,11 @@
+D:\hey\C#\Cylinder\Cylinder\bin\Debug\Cylinder.exe.config
+D:\hey\C#\Cylinder\Cylinder\bin\Debug\Cylinder.exe
+D:\hey\C#\Cylinder\Cylinder\bin\Debug\Cylinder.pdb
+D:\hey\C#\Cylinder\Cylinder\obj\Debug\Cylinder.csproj.AssemblyReference.cache
+D:\hey\C#\Cylinder\Cylinder\obj\Debug\Cylinder.csproj.SuggestedBindingRedirects.cache
+D:\hey\C#\Cylinder\Cylinder\obj\Debug\Cylinder.Form1.resources
+D:\hey\C#\Cylinder\Cylinder\obj\Debug\Cylinder.Properties.Resources.resources
+D:\hey\C#\Cylinder\Cylinder\obj\Debug\Cylinder.csproj.GenerateResource.cache
+D:\hey\C#\Cylinder\Cylinder\obj\Debug\Cylinder.csproj.CoreCompileInputs.cache
+D:\hey\C#\Cylinder\Cylinder\obj\Debug\Cylinder.exe
+D:\hey\C#\Cylinder\Cylinder\obj\Debug\Cylinder.pdb

@@ -1,0 +1,38 @@
+12/17/2022 8:34:21 PM	[INFO]	:	User SigUp Page has been Opened
+12/17/2022 8:35:23 PM	[INFO]	:	Error : Agree to Terms and Conditions
+12/17/2022 8:35:31 PM	[INFO]	:	New member has been registered.
+12/17/2022 8:35:33 PM	[INFO]	:	User Login Page has been accessed
+12/17/2022 8:35:43 PM	[ User Name and Password validation is Checked]	:	
+12/17/2022 8:35:43 PM	[Matching User Name and Password with DataBase Data]	:	
+12/17/2022 8:35:45 PM	[Error : Invalid username or password]	:	
+12/17/2022 8:35:51 PM	[ User Name and Password validation is Checked]	:	
+12/17/2022 8:35:51 PM	[Matching User Name and Password with DataBase Data]	:	
+12/17/2022 8:35:53 PM	[Error : Invalid username or password]	:	
+12/17/2022 8:35:56 PM	[INFO]	:	User SigUp Page has been accessed 
+12/17/2022 8:36:29 PM	[INFO]	:	Error : Password and Confirm password is not matching
+12/17/2022 8:36:39 PM	[INFO]	:	New member has been registered.
+12/17/2022 8:36:41 PM	[INFO]	:	User Login Page has been accessed
+12/17/2022 8:36:47 PM	[ User Name and Password validation is Checked]	:	
+12/17/2022 8:36:47 PM	[Matching User Name and Password with DataBase Data]	:	
+12/17/2022 8:36:48 PM	[INFO]	:	User Home Page has been accessed
+12/17/2022 8:36:48 PM	[Error : Invalid username or password]	:	
+12/17/2022 8:44:44 PM	[INFO]	:	User Login Page has been Opened
+12/17/2022 8:44:50 PM	[INFO]	:	User SigUp Page has been accessed 
+12/17/2022 8:45:17 PM	[INFO]	:	New member has been registered.
+12/17/2022 8:45:18 PM	[INFO]	:	User Login Page has been accessed
+12/17/2022 8:45:27 PM	[INFO]	:	 User Name and Password validation is Checked
+12/17/2022 8:45:27 PM	[INFO]	:	Matching User Name and Password with DataBase Data
+12/17/2022 8:45:27 PM	[INFO]	:	User Home Page has been accessed
+12/17/2022 8:45:27 PM	[INFO]	:	Error : Invalid username or password
+12/17/2022 8:52:57 PM	[INFO]	:	User SigUp Page has been Opened
+12/17/2022 8:53:03 PM	[ERROR]	:	Member Name is needed for Register
+12/17/2022 8:53:33 PM	[ERROR]	:	Password and Confirm password is not matching
+12/17/2022 8:53:43 PM	[EROR]	:	Agree to Terms and Conditions
+12/17/2022 8:53:48 PM	[DB]	:	New member has been registered.
+12/17/2022 8:53:50 PM	[INFO]	:	User Login Page has been accessed
+12/17/2022 8:53:58 PM	[INFO]	:	 User Name and Password validation is Checked
+12/17/2022 8:53:58 PM	[DB]	:	Matching User Name and Password with DataBase Data
+12/17/2022 8:53:58 PM	[INFO]	:	User Home Page has been accessed
+12/17/2022 8:53:58 PM	[ERROR]	:	Invalid username or password
+12/17/2022 9:32:28 PM	[INFO]	:	User SigUp Page has been Opened
+12/17/2022 9:32:52 PM	[INFO]	:	User Login Page has been accessed

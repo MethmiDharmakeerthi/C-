@@ -1,0 +1,15 @@
+D:\hey\C#\ConsoleAppStudentRankingSystem\ConsoleAppStudentRankingSystem\obj\Debug\net6.0\ConsoleAppStudentRankingSystem.csproj.AssemblyReference.cache
+D:\hey\C#\ConsoleAppStudentRankingSystem\ConsoleAppStudentRankingSystem\obj\Debug\net6.0\ConsoleAppStudentRankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\hey\C#\ConsoleAppStudentRankingSystem\ConsoleAppStudentRankingSystem\obj\Debug\net6.0\ConsoleAppStudentRankingSystem.AssemblyInfoInputs.cache
+D:\hey\C#\ConsoleAppStudentRankingSystem\ConsoleAppStudentRankingSystem\obj\Debug\net6.0\ConsoleAppStudentRankingSystem.AssemblyInfo.cs
+D:\hey\C#\ConsoleAppStudentRankingSystem\ConsoleAppStudentRankingSystem\obj\Debug\net6.0\ConsoleAppStudentRankingSystem.csproj.CoreCompileInputs.cache
+D:\hey\C#\ConsoleAppStudentRankingSystem\ConsoleAppStudentRankingSystem\bin\Debug\net6.0\ConsoleAppStudentRankingSystem.exe
+D:\hey\C#\ConsoleAppStudentRankingSystem\ConsoleAppStudentRankingSystem\bin\Debug\net6.0\ConsoleAppStudentRankingSystem.deps.json
+D:\hey\C#\ConsoleAppStudentRankingSystem\ConsoleAppStudentRankingSystem\bin\Debug\net6.0\ConsoleAppStudentRankingSystem.runtimeconfig.json
+D:\hey\C#\ConsoleAppStudentRankingSystem\ConsoleAppStudentRankingSystem\bin\Debug\net6.0\ConsoleAppStudentRankingSystem.dll
+D:\hey\C#\ConsoleAppStudentRankingSystem\ConsoleAppStudentRankingSystem\bin\Debug\net6.0\ConsoleAppStudentRankingSystem.pdb
+D:\hey\C#\ConsoleAppStudentRankingSystem\ConsoleAppStudentRankingSystem\obj\Debug\net6.0\ConsoleAppStudentRankingSystem.dll
+D:\hey\C#\ConsoleAppStudentRankingSystem\ConsoleAppStudentRankingSystem\obj\Debug\net6.0\refint\ConsoleAppStudentRankingSystem.dll
+D:\hey\C#\ConsoleAppStudentRankingSystem\ConsoleAppStudentRankingSystem\obj\Debug\net6.0\ConsoleAppStudentRankingSystem.pdb
+D:\hey\C#\ConsoleAppStudentRankingSystem\ConsoleAppStudentRankingSystem\obj\Debug\net6.0\ConsoleAppStudentRankingSystem.genruntimeconfig.cache
+D:\hey\C#\ConsoleAppStudentRankingSystem\ConsoleAppStudentRankingSystem\obj\Debug\net6.0\ref\ConsoleAppStudentRankingSystem.dll

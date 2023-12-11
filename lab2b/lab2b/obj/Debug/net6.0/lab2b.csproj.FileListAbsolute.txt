@@ -1,0 +1,15 @@
+D:\hey\C#\lab2b\lab2b\bin\Debug\net6.0\lab2b.exe
+D:\hey\C#\lab2b\lab2b\bin\Debug\net6.0\lab2b.deps.json
+D:\hey\C#\lab2b\lab2b\bin\Debug\net6.0\lab2b.runtimeconfig.json
+D:\hey\C#\lab2b\lab2b\bin\Debug\net6.0\lab2b.dll
+D:\hey\C#\lab2b\lab2b\bin\Debug\net6.0\lab2b.pdb
+D:\hey\C#\lab2b\lab2b\obj\Debug\net6.0\lab2b.csproj.AssemblyReference.cache
+D:\hey\C#\lab2b\lab2b\obj\Debug\net6.0\lab2b.GeneratedMSBuildEditorConfig.editorconfig
+D:\hey\C#\lab2b\lab2b\obj\Debug\net6.0\lab2b.AssemblyInfoInputs.cache
+D:\hey\C#\lab2b\lab2b\obj\Debug\net6.0\lab2b.AssemblyInfo.cs
+D:\hey\C#\lab2b\lab2b\obj\Debug\net6.0\lab2b.csproj.CoreCompileInputs.cache
+D:\hey\C#\lab2b\lab2b\obj\Debug\net6.0\lab2b.dll
+D:\hey\C#\lab2b\lab2b\obj\Debug\net6.0\refint\lab2b.dll
+D:\hey\C#\lab2b\lab2b\obj\Debug\net6.0\lab2b.pdb
+D:\hey\C#\lab2b\lab2b\obj\Debug\net6.0\lab2b.genruntimeconfig.cache
+D:\hey\C#\lab2b\lab2b\obj\Debug\net6.0\ref\lab2b.dll

@@ -1,0 +1,5 @@
+D:\hey\C#\studentRankingApp\studentRankingApp\obj\Debug\net6.0\studentRankingApp.csproj.AssemblyReference.cache
+D:\hey\C#\studentRankingApp\studentRankingApp\obj\Debug\net6.0\studentRankingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\hey\C#\studentRankingApp\studentRankingApp\obj\Debug\net6.0\studentRankingApp.AssemblyInfoInputs.cache
+D:\hey\C#\studentRankingApp\studentRankingApp\obj\Debug\net6.0\studentRankingApp.AssemblyInfo.cs
+D:\hey\C#\studentRankingApp\studentRankingApp\obj\Debug\net6.0\studentRankingApp.csproj.CoreCompileInputs.cache

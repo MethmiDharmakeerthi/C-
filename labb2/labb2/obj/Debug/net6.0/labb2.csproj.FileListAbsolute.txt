@@ -1,0 +1,15 @@
+D:\hey\C#\labb2\labb2\bin\Debug\net6.0\labb2.exe
+D:\hey\C#\labb2\labb2\bin\Debug\net6.0\labb2.deps.json
+D:\hey\C#\labb2\labb2\bin\Debug\net6.0\labb2.runtimeconfig.json
+D:\hey\C#\labb2\labb2\bin\Debug\net6.0\labb2.dll
+D:\hey\C#\labb2\labb2\bin\Debug\net6.0\labb2.pdb
+D:\hey\C#\labb2\labb2\obj\Debug\net6.0\labb2.csproj.AssemblyReference.cache
+D:\hey\C#\labb2\labb2\obj\Debug\net6.0\labb2.GeneratedMSBuildEditorConfig.editorconfig
+D:\hey\C#\labb2\labb2\obj\Debug\net6.0\labb2.AssemblyInfoInputs.cache
+D:\hey\C#\labb2\labb2\obj\Debug\net6.0\labb2.AssemblyInfo.cs
+D:\hey\C#\labb2\labb2\obj\Debug\net6.0\labb2.csproj.CoreCompileInputs.cache
+D:\hey\C#\labb2\labb2\obj\Debug\net6.0\labb2.dll
+D:\hey\C#\labb2\labb2\obj\Debug\net6.0\refint\labb2.dll
+D:\hey\C#\labb2\labb2\obj\Debug\net6.0\labb2.pdb
+D:\hey\C#\labb2\labb2\obj\Debug\net6.0\labb2.genruntimeconfig.cache
+D:\hey\C#\labb2\labb2\obj\Debug\net6.0\ref\labb2.dll

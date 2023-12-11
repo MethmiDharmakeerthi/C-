@@ -1,0 +1,15 @@
+D:\hey\C#\LaptopDetails\LaptopDetails\bin\Debug\net6.0\LaptopDetails.exe
+D:\hey\C#\LaptopDetails\LaptopDetails\bin\Debug\net6.0\LaptopDetails.deps.json
+D:\hey\C#\LaptopDetails\LaptopDetails\bin\Debug\net6.0\LaptopDetails.runtimeconfig.json
+D:\hey\C#\LaptopDetails\LaptopDetails\bin\Debug\net6.0\LaptopDetails.dll
+D:\hey\C#\LaptopDetails\LaptopDetails\bin\Debug\net6.0\LaptopDetails.pdb
+D:\hey\C#\LaptopDetails\LaptopDetails\obj\Debug\net6.0\LaptopDetails.csproj.AssemblyReference.cache
+D:\hey\C#\LaptopDetails\LaptopDetails\obj\Debug\net6.0\LaptopDetails.GeneratedMSBuildEditorConfig.editorconfig
+D:\hey\C#\LaptopDetails\LaptopDetails\obj\Debug\net6.0\LaptopDetails.AssemblyInfoInputs.cache
+D:\hey\C#\LaptopDetails\LaptopDetails\obj\Debug\net6.0\LaptopDetails.AssemblyInfo.cs
+D:\hey\C#\LaptopDetails\LaptopDetails\obj\Debug\net6.0\LaptopDetails.csproj.CoreCompileInputs.cache
+D:\hey\C#\LaptopDetails\LaptopDetails\obj\Debug\net6.0\LaptopDetails.dll
+D:\hey\C#\LaptopDetails\LaptopDetails\obj\Debug\net6.0\refint\LaptopDetails.dll
+D:\hey\C#\LaptopDetails\LaptopDetails\obj\Debug\net6.0\LaptopDetails.pdb
+D:\hey\C#\LaptopDetails\LaptopDetails\obj\Debug\net6.0\LaptopDetails.genruntimeconfig.cache
+D:\hey\C#\LaptopDetails\LaptopDetails\obj\Debug\net6.0\ref\LaptopDetails.dll

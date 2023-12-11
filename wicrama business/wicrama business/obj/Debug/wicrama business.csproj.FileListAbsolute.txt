@@ -1,0 +1,14 @@
+D:\hey\C#\wicrama business\wicrama business\bin\Debug\wicrama business.exe.config
+D:\hey\C#\wicrama business\wicrama business\bin\Debug\wicrama business.exe
+D:\hey\C#\wicrama business\wicrama business\bin\Debug\wicrama business.pdb
+D:\hey\C#\wicrama business\wicrama business\obj\Debug\wicrama business.csproj.AssemblyReference.cache
+D:\hey\C#\wicrama business\wicrama business\obj\Debug\wicrama business.csproj.SuggestedBindingRedirects.cache
+D:\hey\C#\wicrama business\wicrama business\obj\Debug\wicrama_business.Login.resources
+D:\hey\C#\wicrama business\wicrama business\obj\Debug\wicrama_business.Properties.Resources.resources
+D:\hey\C#\wicrama business\wicrama business\obj\Debug\wicrama business.csproj.GenerateResource.cache
+D:\hey\C#\wicrama business\wicrama business\obj\Debug\wicrama business.csproj.CoreCompileInputs.cache
+D:\hey\C#\wicrama business\wicrama business\obj\Debug\wicrama business.exe
+D:\hey\C#\wicrama business\wicrama business\obj\Debug\wicrama business.pdb
+D:\hey\C#\wicrama business\wicrama business\obj\Debug\wicrama_business.SignUp.resources
+D:\hey\C#\wicrama business\wicrama business\obj\Debug\wicrama_business.Welcomepage.resources
+D:\hey\C#\wicrama business\wicrama business\obj\Debug\wicrama_business.home.resources

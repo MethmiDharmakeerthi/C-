@@ -1,0 +1,15 @@
+D:\hey\C#\methmi\methmi\bin\Debug\net6.0\methmi.exe
+D:\hey\C#\methmi\methmi\bin\Debug\net6.0\methmi.deps.json
+D:\hey\C#\methmi\methmi\bin\Debug\net6.0\methmi.runtimeconfig.json
+D:\hey\C#\methmi\methmi\bin\Debug\net6.0\methmi.dll
+D:\hey\C#\methmi\methmi\bin\Debug\net6.0\methmi.pdb
+D:\hey\C#\methmi\methmi\obj\Debug\net6.0\methmi.csproj.AssemblyReference.cache
+D:\hey\C#\methmi\methmi\obj\Debug\net6.0\methmi.GeneratedMSBuildEditorConfig.editorconfig
+D:\hey\C#\methmi\methmi\obj\Debug\net6.0\methmi.AssemblyInfoInputs.cache
+D:\hey\C#\methmi\methmi\obj\Debug\net6.0\methmi.AssemblyInfo.cs
+D:\hey\C#\methmi\methmi\obj\Debug\net6.0\methmi.csproj.CoreCompileInputs.cache
+D:\hey\C#\methmi\methmi\obj\Debug\net6.0\methmi.dll
+D:\hey\C#\methmi\methmi\obj\Debug\net6.0\refint\methmi.dll
+D:\hey\C#\methmi\methmi\obj\Debug\net6.0\methmi.pdb
+D:\hey\C#\methmi\methmi\obj\Debug\net6.0\methmi.genruntimeconfig.cache
+D:\hey\C#\methmi\methmi\obj\Debug\net6.0\ref\methmi.dll

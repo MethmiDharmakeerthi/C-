@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LaptopDetails/1.0.0": {
+        "runtime": {
+          "LaptopDetails.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LaptopDetails/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

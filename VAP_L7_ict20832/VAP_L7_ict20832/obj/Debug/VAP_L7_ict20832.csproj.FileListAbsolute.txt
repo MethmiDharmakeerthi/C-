@@ -1,0 +1,13 @@
+D:\hey\C#\VAP_L7_ict20832\VAP_L7_ict20832\obj\Debug\VAP_L7_ict20832.csproj.AssemblyReference.cache
+D:\hey\C#\VAP_L7_ict20832\VAP_L7_ict20832\obj\Debug\VAP_L7_ict20832.csproj.SuggestedBindingRedirects.cache
+D:\hey\C#\VAP_L7_ict20832\VAP_L7_ict20832\obj\Debug\VAP_L7_ict20832.Form1.resources
+D:\hey\C#\VAP_L7_ict20832\VAP_L7_ict20832\obj\Debug\VAP_L7_ict20832.TableView.resources
+D:\hey\C#\VAP_L7_ict20832\VAP_L7_ict20832\obj\Debug\VAP_L7_ict20832.Properties.Resources.resources
+D:\hey\C#\VAP_L7_ict20832\VAP_L7_ict20832\obj\Debug\VAP_L7_ict20832.csproj.GenerateResource.cache
+D:\hey\C#\VAP_L7_ict20832\VAP_L7_ict20832\obj\Debug\VAP_L7_ict20832.csproj.CoreCompileInputs.cache
+D:\hey\C#\VAP_L7_ict20832\VAP_L7_ict20832\bin\Debug\VAP_L7_ict20832.exe.config
+D:\hey\C#\VAP_L7_ict20832\VAP_L7_ict20832\bin\Debug\VAP_L7_ict20832.exe
+D:\hey\C#\VAP_L7_ict20832\VAP_L7_ict20832\bin\Debug\VAP_L7_ict20832.pdb
+D:\hey\C#\VAP_L7_ict20832\VAP_L7_ict20832\obj\Debug\VAP_L7_ict20832.exe
+D:\hey\C#\VAP_L7_ict20832\VAP_L7_ict20832\obj\Debug\VAP_L7_ict20832.pdb
+D:\hey\C#\VAP_L7_ict20832\VAP_L7_ict20832\obj\Debug\VAP_L7_ict20832.EmpRegForm.resources

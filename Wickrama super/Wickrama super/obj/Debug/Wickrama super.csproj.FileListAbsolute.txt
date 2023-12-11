@@ -1,0 +1,13 @@
+D:\hey\C#\Wickrama super\Wickrama super\bin\Debug\Wickrama super.exe.config
+D:\hey\C#\Wickrama super\Wickrama super\bin\Debug\Wickrama super.exe
+D:\hey\C#\Wickrama super\Wickrama super\bin\Debug\Wickrama super.pdb
+D:\hey\C#\Wickrama super\Wickrama super\obj\Debug\Wickrama super.csproj.AssemblyReference.cache
+D:\hey\C#\Wickrama super\Wickrama super\obj\Debug\Wickrama super.csproj.SuggestedBindingRedirects.cache
+D:\hey\C#\Wickrama super\Wickrama super\obj\Debug\Wickrama_super.Form1.resources
+D:\hey\C#\Wickrama super\Wickrama super\obj\Debug\Wickrama_super.Form2.resources
+D:\hey\C#\Wickrama super\Wickrama super\obj\Debug\Wickrama_super.SignUp.resources
+D:\hey\C#\Wickrama super\Wickrama super\obj\Debug\Wickrama_super.Properties.Resources.resources
+D:\hey\C#\Wickrama super\Wickrama super\obj\Debug\Wickrama super.csproj.GenerateResource.cache
+D:\hey\C#\Wickrama super\Wickrama super\obj\Debug\Wickrama super.csproj.CoreCompileInputs.cache
+D:\hey\C#\Wickrama super\Wickrama super\obj\Debug\Wickrama super.exe
+D:\hey\C#\Wickrama super\Wickrama super\obj\Debug\Wickrama super.pdb

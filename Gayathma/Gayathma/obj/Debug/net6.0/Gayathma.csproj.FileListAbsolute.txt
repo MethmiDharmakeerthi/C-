@@ -1,0 +1,15 @@
+D:\hey\C#\Gayathma\Gayathma\bin\Debug\net6.0\Gayathma.exe
+D:\hey\C#\Gayathma\Gayathma\bin\Debug\net6.0\Gayathma.deps.json
+D:\hey\C#\Gayathma\Gayathma\bin\Debug\net6.0\Gayathma.runtimeconfig.json
+D:\hey\C#\Gayathma\Gayathma\bin\Debug\net6.0\Gayathma.dll
+D:\hey\C#\Gayathma\Gayathma\bin\Debug\net6.0\Gayathma.pdb
+D:\hey\C#\Gayathma\Gayathma\obj\Debug\net6.0\Gayathma.csproj.AssemblyReference.cache
+D:\hey\C#\Gayathma\Gayathma\obj\Debug\net6.0\Gayathma.GeneratedMSBuildEditorConfig.editorconfig
+D:\hey\C#\Gayathma\Gayathma\obj\Debug\net6.0\Gayathma.AssemblyInfoInputs.cache
+D:\hey\C#\Gayathma\Gayathma\obj\Debug\net6.0\Gayathma.AssemblyInfo.cs
+D:\hey\C#\Gayathma\Gayathma\obj\Debug\net6.0\Gayathma.csproj.CoreCompileInputs.cache
+D:\hey\C#\Gayathma\Gayathma\obj\Debug\net6.0\Gayathma.dll
+D:\hey\C#\Gayathma\Gayathma\obj\Debug\net6.0\refint\Gayathma.dll
+D:\hey\C#\Gayathma\Gayathma\obj\Debug\net6.0\Gayathma.pdb
+D:\hey\C#\Gayathma\Gayathma\obj\Debug\net6.0\Gayathma.genruntimeconfig.cache
+D:\hey\C#\Gayathma\Gayathma\obj\Debug\net6.0\ref\Gayathma.dll

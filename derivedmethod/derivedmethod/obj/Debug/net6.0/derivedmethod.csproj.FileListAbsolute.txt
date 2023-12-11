@@ -1,0 +1,15 @@
+D:\hey\C#\derivedmethod\derivedmethod\bin\Debug\net6.0\derivedmethod.exe
+D:\hey\C#\derivedmethod\derivedmethod\bin\Debug\net6.0\derivedmethod.deps.json
+D:\hey\C#\derivedmethod\derivedmethod\bin\Debug\net6.0\derivedmethod.runtimeconfig.json
+D:\hey\C#\derivedmethod\derivedmethod\bin\Debug\net6.0\derivedmethod.dll
+D:\hey\C#\derivedmethod\derivedmethod\bin\Debug\net6.0\derivedmethod.pdb
+D:\hey\C#\derivedmethod\derivedmethod\obj\Debug\net6.0\derivedmethod.csproj.AssemblyReference.cache
+D:\hey\C#\derivedmethod\derivedmethod\obj\Debug\net6.0\derivedmethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\hey\C#\derivedmethod\derivedmethod\obj\Debug\net6.0\derivedmethod.AssemblyInfoInputs.cache
+D:\hey\C#\derivedmethod\derivedmethod\obj\Debug\net6.0\derivedmethod.AssemblyInfo.cs
+D:\hey\C#\derivedmethod\derivedmethod\obj\Debug\net6.0\derivedmethod.csproj.CoreCompileInputs.cache
+D:\hey\C#\derivedmethod\derivedmethod\obj\Debug\net6.0\derivedmethod.dll
+D:\hey\C#\derivedmethod\derivedmethod\obj\Debug\net6.0\refint\derivedmethod.dll
+D:\hey\C#\derivedmethod\derivedmethod\obj\Debug\net6.0\derivedmethod.pdb
+D:\hey\C#\derivedmethod\derivedmethod\obj\Debug\net6.0\derivedmethod.genruntimeconfig.cache
+D:\hey\C#\derivedmethod\derivedmethod\obj\Debug\net6.0\ref\derivedmethod.dll

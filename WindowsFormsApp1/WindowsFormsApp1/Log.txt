@@ -1,0 +1,9 @@
+12/14/2022 1:45:41 PM	[INFO]	:	Program is STARTED
+12/14/2022 1:46:22 PM	[INFO]	:	Data has been INSERTED
+12/14/2022 1:46:22 PM	[INFO]	:	All the Data is Displayed
+12/14/2022 1:46:22 PM	[INFO]	:	Feilds are REFRESHED
+12/14/2022 1:46:58 PM	[INFO]	:	All the Data is Displayed
+12/14/2022 1:47:11 PM	[INFO]	:	All the Data is Displayed
+12/14/2022 1:47:11 PM	[INFO]	:	Feilds are REFRESHED
+12/14/2022 1:47:19 PM	[INFO]	:	All the Data is Displayed
+12/14/2022 1:47:19 PM	[INFO]	:	Feilds are REFRESHED

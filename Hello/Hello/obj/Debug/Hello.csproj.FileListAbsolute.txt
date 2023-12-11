@@ -1,0 +1,13 @@
+D:\hey\C#\Hello\Hello\obj\Debug\Hello.csproj.AssemblyReference.cache
+D:\hey\C#\Hello\Hello\obj\Debug\Hello.csproj.SuggestedBindingRedirects.cache
+D:\hey\C#\Hello\Hello\obj\Debug\Hello.Form1.resources
+D:\hey\C#\Hello\Hello\obj\Debug\Hello.Form2.resources
+D:\hey\C#\Hello\Hello\obj\Debug\Hello.Form3.resources
+D:\hey\C#\Hello\Hello\obj\Debug\Hello.Properties.Resources.resources
+D:\hey\C#\Hello\Hello\obj\Debug\Hello.csproj.GenerateResource.cache
+D:\hey\C#\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+D:\hey\C#\Hello\Hello\bin\Debug\Hello.exe.config
+D:\hey\C#\Hello\Hello\bin\Debug\Hello.exe
+D:\hey\C#\Hello\Hello\bin\Debug\Hello.pdb
+D:\hey\C#\Hello\Hello\obj\Debug\Hello.exe
+D:\hey\C#\Hello\Hello\obj\Debug\Hello.pdb

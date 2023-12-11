@@ -1,0 +1,11 @@
+D:\hey\C#\addtwoints\addtwoints\bin\Debug\addtwoints.exe.config
+D:\hey\C#\addtwoints\addtwoints\bin\Debug\addtwoints.exe
+D:\hey\C#\addtwoints\addtwoints\bin\Debug\addtwoints.pdb
+D:\hey\C#\addtwoints\addtwoints\obj\Debug\addtwoints.csproj.AssemblyReference.cache
+D:\hey\C#\addtwoints\addtwoints\obj\Debug\addtwoints.csproj.SuggestedBindingRedirects.cache
+D:\hey\C#\addtwoints\addtwoints\obj\Debug\addtwoints.Form1.resources
+D:\hey\C#\addtwoints\addtwoints\obj\Debug\addtwoints.Properties.Resources.resources
+D:\hey\C#\addtwoints\addtwoints\obj\Debug\addtwoints.csproj.GenerateResource.cache
+D:\hey\C#\addtwoints\addtwoints\obj\Debug\addtwoints.csproj.CoreCompileInputs.cache
+D:\hey\C#\addtwoints\addtwoints\obj\Debug\addtwoints.exe
+D:\hey\C#\addtwoints\addtwoints\obj\Debug\addtwoints.pdb

@@ -1,0 +1,11 @@
+D:\hey\C#\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe.config
+D:\hey\C#\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe
+D:\hey\C#\WindowsForm\WindowsForm\bin\Debug\WindowsForm.pdb
+D:\hey\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.csproj.AssemblyReference.cache
+D:\hey\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.csproj.SuggestedBindingRedirects.cache
+D:\hey\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+D:\hey\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.csproj.GenerateResource.cache
+D:\hey\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.csproj.CoreCompileInputs.cache
+D:\hey\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.exe
+D:\hey\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.pdb
+D:\hey\C#\WindowsForm\WindowsForm\obj\Debug\WindowsForm.MemberGenerationForm.resources

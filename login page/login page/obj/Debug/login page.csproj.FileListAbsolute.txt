@@ -1,0 +1,11 @@
+D:\hey\C#\login page\login page\bin\Debug\login page.exe.config
+D:\hey\C#\login page\login page\bin\Debug\login page.exe
+D:\hey\C#\login page\login page\bin\Debug\login page.pdb
+D:\hey\C#\login page\login page\obj\Debug\login page.csproj.AssemblyReference.cache
+D:\hey\C#\login page\login page\obj\Debug\login page.csproj.SuggestedBindingRedirects.cache
+D:\hey\C#\login page\login page\obj\Debug\login_page.Form1.resources
+D:\hey\C#\login page\login page\obj\Debug\login_page.Properties.Resources.resources
+D:\hey\C#\login page\login page\obj\Debug\login page.csproj.GenerateResource.cache
+D:\hey\C#\login page\login page\obj\Debug\login page.csproj.CoreCompileInputs.cache
+D:\hey\C#\login page\login page\obj\Debug\login page.exe
+D:\hey\C#\login page\login page\obj\Debug\login page.pdb

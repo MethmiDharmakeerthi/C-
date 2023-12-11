@@ -1,0 +1,11 @@
+D:\hey\C#\ict20832question3\ict20832question3\bin\Debug\ict20832question3.exe.config
+D:\hey\C#\ict20832question3\ict20832question3\bin\Debug\ict20832question3.exe
+D:\hey\C#\ict20832question3\ict20832question3\bin\Debug\ict20832question3.pdb
+D:\hey\C#\ict20832question3\ict20832question3\obj\Debug\ict20832question3.csproj.AssemblyReference.cache
+D:\hey\C#\ict20832question3\ict20832question3\obj\Debug\ict20832question3.csproj.SuggestedBindingRedirects.cache
+D:\hey\C#\ict20832question3\ict20832question3\obj\Debug\ict20832question3.Form1.resources
+D:\hey\C#\ict20832question3\ict20832question3\obj\Debug\ict20832question3.Properties.Resources.resources
+D:\hey\C#\ict20832question3\ict20832question3\obj\Debug\ict20832question3.csproj.GenerateResource.cache
+D:\hey\C#\ict20832question3\ict20832question3\obj\Debug\ict20832question3.csproj.CoreCompileInputs.cache
+D:\hey\C#\ict20832question3\ict20832question3\obj\Debug\ict20832question3.exe
+D:\hey\C#\ict20832question3\ict20832question3\obj\Debug\ict20832question3.pdb
